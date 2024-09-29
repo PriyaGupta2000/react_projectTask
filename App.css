@@ -1,0 +1,15 @@
+Global styles for the application 
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+ 
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 2rem;
+  color: #007bff;
+}
+ 
